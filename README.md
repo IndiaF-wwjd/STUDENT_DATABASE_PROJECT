@@ -1,2 +1,13 @@
 # STUDENT_DATABASE_PROJECT
-Student database
+
+Purpose:
+Created a relational database to manage students,
+courses, instructors, departments, and enrollment.
+
+Skills:
+- MySQL
+- Database design
+- Primary keys
+- Foreign keys
+- Constraints
+- SQL queries
